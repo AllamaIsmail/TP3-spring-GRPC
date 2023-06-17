@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro_service_GRPC-master/grpc-ismail.iml" filepath="$PROJECT_DIR$/micro_service_GRPC-master/grpc-ismail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/micro_service_GRPC.iml" filepath="$PROJECT_DIR$/.idea/micro_service_GRPC.iml" />
+    </modules>
+  </component>
+</project>
